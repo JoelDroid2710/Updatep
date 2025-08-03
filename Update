@@ -1,16 +1,7 @@
 {
-  "showDialog": true,
-  "appVersionCode": 47,
-  "messageText": "Update mod",
-  "updateButtonText": "Update",
-  "updateButtonLink": "https://google.com",
-  "updateButtonGradientStartColor": "#1E88E5",
-  "updateButtonGradientEndColor": "#64B5F6",
-  "cancelButtonText": "Cancel",
-  "cancelClosesApp": true,
-  "cancelButtonGradientStartColor": "#1E88E5",
-  "cancelButtonGradientEndColor": "#64B5F6",
-  "textGradientStartColor": "#1E88E5",
-  "textGradientEndColor": "#64B5F6",
-  "dialogBackgroundColor": "#FFFFFF"
+  "latest_version": "47",
+  "update_url": "https://url de su apk/update.apk",
+  "release_notes": "Nuevas funciones: Interfaz mejorada, corrección de errores y mejoras en el rendimiento.",
+  "message": "¡Hay una nueva versión disponible! Actualice ahora para disfrutar las últimas funciones.",
+  "is_mandatory": false
 }
